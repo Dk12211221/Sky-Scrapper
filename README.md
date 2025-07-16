@@ -1,16 +1,16 @@
-# 🌤️ Sky Scrapper – Weather App
+# ⛅ Weather App
 
-Sky Scrapper is a beautiful and modern weather app built using Flutter. It fetches real-time weather data by city name, shows detailed temperature information, and allows bookmarking favorite cities. The app supports both **light and dark themes**, internet connectivity checks, and a polished user interface.
+A sleek and modern Flutter application that provides real-time weather updates for cities across India and around the world. Stay updated with current conditions, forecasts, and more – all in a beautifully designed user interface.
+
 
 ## ✨ Features
 
-- 🔍 Search weather by city
-- 📡 Real-time internet connectivity detection
-- 💡 Light & Dark theme support (via Provider)
-- 📍 Save & manage favorite cities with Shared Preferences
-- 🌦️ Weather details (temperature, humidity, wind speed, sunrise, sunset)
-- 🔁 Retry prompt on no internet connection
-- 🎨 Clean UI with Google Fonts and animation
+- 🌍 **City Search** – Get weather info for any city in India or globally.
+- 📍 **Current Weather** – Real-time temperature, humidity, wind speed, and condition.
+- 🌤️ **5-Day Forecast** – Upcoming weather predictions with detailed insights.
+- 🎨 **Clean UI** – A responsive and elegant interface that adapts to dark/light modes.
+- 📸 **Weather Icons** – Visual representation of weather conditions.
+- 🌐 **API Integration** – Powered by reliable weather APIs like OpenWeatherMap.
 
 ---
 
@@ -25,7 +25,7 @@ Sky Scrapper is a beautiful and modern weather app built using Flutter. It fetch
 
 ---
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 
