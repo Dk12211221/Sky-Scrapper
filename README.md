@@ -35,7 +35,7 @@ Sky Scrapper is a beautiful and modern weather app built using Flutter. It fetch
 
 ## 📱 Screenshots
 <p align="center">
-<img src="https://github.com/Dk12211221/weatherapp/blob/main/ScreenShot/1.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/1.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/Dk12211221/weatherapp/blob/main/ScreenShot/2.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/Dk12211221/weatherapp/blob/main/ScreenShot/3.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/Dk12211221/weatherapp/blob/main/ScreenShot/4.png" alt="App Screenshot" width="200" height="400"/>
