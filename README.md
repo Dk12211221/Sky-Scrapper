@@ -42,8 +42,5 @@ Sky Scrapper is a beautiful and modern weather app built using Flutter. It fetch
 <img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/5.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/6.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/7.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/8.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/9.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/10.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/Dk12211221/Sky-Scrapper/blob/main/ScreenShot/11.png" alt="App Screenshot" width="200" height="400"/>
+
 </p>
